@@ -1,4 +1,4 @@
-# 🏥 Hospital Emergency Room Analysis Dashboard (Power BI)
+# 🏥 Hospital Emergency Room Analysis Dashboard
 
 A comprehensive, real-time **Business Intelligence solution** designed to analyze, visualize, and optimize hospital emergency room performance using **Power BI**.
 
