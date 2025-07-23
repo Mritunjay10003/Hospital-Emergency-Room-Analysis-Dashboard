@@ -87,5 +87,10 @@ This project demonstrates an interactive and data-rich dashboard system to suppo
 - Built an executive-friendly solution with strong business impact
 
 ---
+## 📬 Contact
+
+**Mritunjay Singh**  
+📧 Email: mritunjaysingh.as@gmail.com  
+🔗 LinkedIn: [linkedin.com/in/mritunjaysingh10003](https://linkedin.com/in/mritunjaysingh10003)  
 
 > 🧠 *“Without data, you're just another person with an opinion.” – W. Edwards Deming*
